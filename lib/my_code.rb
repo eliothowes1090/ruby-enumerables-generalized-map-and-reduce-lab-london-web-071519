@@ -19,7 +19,7 @@ def reduce(source_array, starting_point = nil)
     value = starting_point
     counter = 0
   else
-    value = source_arrayp[0]
+    value = source_array[0]
     counter = 1
   end
 
