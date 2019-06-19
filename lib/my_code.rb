@@ -15,9 +15,8 @@ end
 
 
 def reduce(source_array, starting_point = nil)
-  
+
   if starting_point
-    binding.pry
     value = starting_point
     counter = 0
   else
