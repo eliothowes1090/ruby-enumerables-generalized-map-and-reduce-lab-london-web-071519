@@ -1,5 +1,7 @@
 # Your Code Here
 
+require 'pry'
+
 def map(array)
   counter = 0
   new_array = []
